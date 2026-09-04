@@ -15,7 +15,7 @@ tags: [voice, editing, revision, anti-ai, concrete-language, clarity, executive-
 
 **Purpose.** One rule set for drafting, rewriting, and reviewing professional, analytical, and executive prose. It merges three prior sources: a clarity standard drawn from ASD-STE100 principles, a concrete-language revision method, and an anti-AI voice skill. The goal is clear thinking expressed in clear language, not simplified thinking.
 
-**Applies to.** LinkedIn posts, executive points of view, client-facing summaries, advisory content, proposals, statements of work, briefs, and internal notes on Human Capital, Learning, Leadership, Workforce, and AI adoption.
+**Applies to.** LinkedIn posts, executive points of view, client-facing summaries, advisory content, proposals, statements of work, briefs, professional communications.
 
 **Review cadence.** Quarterly, or sooner when positioning, offerings, or public point of view changes materially.
 
@@ -137,6 +137,18 @@ Do not manufacture emotional arcs, urgency, or stakes absent from the source. If
 - **Copula avoidance.** Do not replace "is" or "has" with "serves as," "features," "boasts," "presents," "represents" unless the substitute adds specific meaning.
 - **Title-case headings.** Sentence case only for subheadings.
 - **Compulsive rule of three.** Ban when items are parallel-shaped fillers ("clear, concise, compelling"). Allow when each item carries different information and non-parallel length.
+
+#### 4.14 Cataphoric teaser
+
+# Anti-Cataphoric Teaser Instructions
+
+State the subject, claim, finding, decision, or recommendation in the opening clause. Remove vague forward references, suspenseful setups, rhetorical question-and-answer constructions, delayed reveals, and empty signposting such as “Here is the issue,” “Three findings stand out,” “The key takeaway is,” or “The biggest risk?” 
+
+Name the concrete actor, action, or idea first, then provide evidence, conditions, or consequences. 
+
+Use forward references only when they identify specific content or a destination, such as “The proposal requires three decisions” or “Appendix A lists the interview questions.” 
+
+Preserve the original meaning, facts, tone, structure, and approximate length. Before finalizing, confirm that every pronoun has a clear antecedent and that the first clause communicates the point without relying on later text.
 
 ### 5. Banned vocabulary, tiered (primary authority)
 
