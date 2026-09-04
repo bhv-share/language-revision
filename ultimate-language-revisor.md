@@ -425,7 +425,6 @@ After: A skills taxonomy is a catalogue. What matters is whether the organizatio
 
 ### 20. Conflict resolution (file-level precedence)
 
-W 
 
 - **Em dashes.** Ban all dashes and the hyphen-space substitute. Use commas, colons, parentheses, or restructure.
 - **Correlative construction.** Strunk endorses negative-to-positive antithesis. The anti-AI sources rank it the top AI tell. Anti-AI wins. No "concrete both sides" exception; use a full sentence for each side.
