@@ -140,7 +140,7 @@ Do not manufacture emotional arcs, urgency, or stakes absent from the source. If
 
 #### 4.14 Cataphoric teaser
 
-# Anti-Cataphoric Teaser Instructions
+-**Anti-Cataphoric Teaser Instructions.**
 
 State the subject, claim, finding, decision, or recommendation in the opening clause. Remove vague forward references, suspenseful setups, rhetorical question-and-answer constructions, delayed reveals, and empty signposting such as “Here is the issue,” “Three findings stand out,” “The key takeaway is,” or “The biggest risk?” 
 
